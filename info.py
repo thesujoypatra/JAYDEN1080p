@@ -11,7 +11,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'JAYDENBot')
 API_ID = int(environ.get('API_ID', '23711849'))
 API_HASH = environ.get('API_HASH', '01aa5ef42323202660519d261550756a')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8012793128:AAG2099VG3fVYZkPgzljKC9QCfbjIvlvnqw")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
